@@ -1,0 +1,550 @@
+the jsp ife cycle
+C.compilation
+
+
+Q12.... entity to get its value generated?....B..your..@GeneratedValue
+
+
+26) book based on its ID .... B   get /books/ {id}
+
+
+Q11..... method in driver manager class?....A....get connection (string URL, string info) throws SQL Exception
+
+Q15..... represented by hibernate session object?....B..... second level cache
+
+Q) 27 works as fronted controller?.... A dispatcher
+
+
+18.actuators to spring boot
+A.spring boot
+
+Q38- to represent primary key--A @Id
+
+
+Q14.....forward the request over to the next servlet.....C.....Http serveletrequest next request=myReq.next("processing servlet")
+
+Q13....Http serveletrequest object is .....D..... string
+
+
+Q) 30 use of the database native protocol.?.....D native protocol
+
+
+Q40- the information done-- D-- Servlet filter
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: > Saitama:
+How is the dynamic interception of requests and responses to transform the information done?
+Ans d servlet filter
+
+> Geralt of rivia:
+45 min backup bacha hai
+
+> Directed by ROBERT B. WEIDE:
+how many servletcontext objects are available for an entire web application
+
+Only one
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: Q1 . servletContext objects    Ans: only one
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: Q18 which of these jdbc mech ==> c)  SAVEPOINT
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: Q4 What is a POM file in a Maven project?
+Ans:A file that stores the structure and dependencies for your Mam prot
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: Q11) which of the following annotations => B) GeneratedValue
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: Q1. how many servletcontext objects are available for an entire web application
+        Ans:  Only One
+
+Q2. what is correct  jsp scriptlet
+       Ans: Not Confirm
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: In spring mvc .......front end ---> dispatcherservelet
+
+TT bhau
+The ability to invoke a RESTful method multiple times without changing the state of the server on subsequent invocations is known as: 
+Ans :Idempotence
+
+Sourabh Mane
+In hibernate....represent primary key
+
+@id
+
+Lady Tsunade
+any requests from the…
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: 14) which of these jdbc mechanism..
+
+Ans :- save point
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: 34. The return type of getParameterNames() of HttpsServletRequedt object is:
+Ans D: string.
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: Q37 In spring MVC
+class works as frontend controller.
+Ans- dispatcher servelet
+W-view resolver
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: Q 27) the ability to invoke RESt full ..method multiple
+Ans-(a)- idempotence
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: Q 17 Which of the following is not a JSP tag == d) jsp:useBean
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: Q 39. Is spring MVC ____ class works as a frontend controller?
+Ans A: DispatcherServlet
+[3:26 pm, 24/03/2022] Prajakta Patil_KH: Q28 -which of the following can be used to test Apls in web service ?
+Ans -a) postback tool
+[3:26 pm, 24/03/2022] +91 86057 36840: which annotation is used to link two tables through a relation table- @JoinColumn
+17-D
+ which of the  following annotation is applied on the unique ID of an entity to get its value generated-
+@GeneratedValue: 1.Url pattern will be "/hello" - D) @WebServlet
+
+2.tables through a relations table - D) @joincolumn
+
+3. maven default buid lifecycle- A) clean
+
+4. hybernate session factory - B) it is a. factory of session objects
+
+5. Action tag- C) class
+[3:14 pm, 24/03/2022] +91 74985 42523: Q4 What is a POM file in a Maven project?
+Ans:A file that stores the structure and dependencies for your Mam prot
+[3:14 pm, 24/03/2022] +91 74985 42523: 14) which of these jdbc mechanism..
+
+Ans :- save point
+[3:14 pm, 24/03/2022] +91 74985 42523: Q1 . servletContext objects    Ans: only one
+[3:14 pm, 24/03/2022] +91 74985 42523: Q37 In spring MVC
+class works as frontend controller.
+Ans- dispatcher servelet
+W-view resolve jsp action tag : use property
+[2:33 pm, 24/03/2022] Mayur Patil: evOps is just a natural extension of Agile
+[2:33 pm, 24/03/2022] Mayur Patil: Q1 B- Quality control, quality assurance
+[2:33 pm, 24/03/2022] Mayur Patil: What are the programming languages supported by Selenium WebDriver
+Perl
+[2:33 pm, 24/03/2022] Mayur Patil: Which of the .... Version control system tool
+... Ans...Git
+[2:33 pm, 24/03/2022] Mayur Patil: Q2 B - agile
+[2:33 pm, 24/03/2022] Mayur Patil: __is responsible for full software- Option b Quality control, Quality assurance
+[2:33 pm, 24/03/2022] Mayur Patil: Q3 A- document containing test cases....
+[2:33 pm, 24/03/2022] Mayur Patil: Which of the....in cloud computing 
+
+Client
+[2:33 pm, 24/03/2022] Mayur Patil: Q39 Which of the following technique is applied for usability testing?
+Ans
+C.Black box
+[2:33 pm, 24/03/2022] Mayur Patil: Which one of the following is delivered at the end of the Sprint?
+Increment of done software
+[2:31 pm, 24/03/2022] +91 74985 42523: WebDnver
+Reveal
+command can be used to enter values onto text boxes?
+Ans: sendKeys("lext")
+[2:31 pm, 24/03/2022] +91 74985 42523: Q-- Explicit typing is denoted with a tag using the ---Answer --- exclamation point (“ ! ”) symbol
+[2:31 pm, 24/03/2022] +91 74985 42523: What is the basic operational unit of Kubernetes?
+Ans :pod
+[2:31 pm, 24/03/2022] +91 74985 42523: Which of the following languages is supported bySelenium WebDriver?
+Ans C
+[2:31 pm, 24/03/2022] +91 74985 42523: Which of the following Docker command is used to access the running container?
+Ans : docker exec
+[2:31 pm, 24/03/2022] +91 74985 42523: Which command is used to push the code into git staging area?
+Ans: git add
+[2:31 pm, 24/03/2022] +91 74985 42523: Which one of the following is delivered at the end of the Sprint?    Answer...an Increment of a Done Software
+[2:31 pm, 24/03/2022] +91 74985 42523: DevOps is an extension of 
+Answer...Agile.
+[2:31 pm, 24/03/2022] +91 74985 42523: 18. Which of the following statements is TRUE for an API Gateway?
+Ans: API Gateway is a server
+[2:31 pm, 24/03/2022] +91 74985 42523: Q24.Command to download all the objects and references from a specified repository
+Ans-git fetch
+[2:31 pm, 24/03/2022] +91 74985 42523: Q14)devops is an extension of
+R) agile
+[2:31 pm, 24/03/2022] +91 74985 42523: Q36 which one of the following type of virtualization is also characteristic of cloud computing
+
+Storage virtualisation
+[2:31 pm, 24/03/2022] +91 74985 42523: Q15)what is the ideal sprint length in agile methodology
+R)2-4 weeks
+[2:31 pm, 24/03/2022] +91 74985 42523: Q13)in webdriber    ___ command can be used to enter values onto test boxes
+R)sendkeys("text")
+[2:31 pm, 24/03/2022] +91 74985 42523: Q33
+True statement about api gateway
+R - opt D
+[2:31 pm, 24/03/2022] +91 74985 42523: 7) which of the following activities is not fundamental for SE
+Ans. C)Software Validation
+[2:31 pm, 24/03/2022] +91 74985 42523: Q34
+Some of the agile frameworks are 
+
+Scrum and kanban
+[2:31 pm, 24/03/2022] +91 74985 42523: Q16 provides complete isolation from the host operating system and the virtual machines sweet police
+
+Ans virtualization
+[2:31 pm, 24/03/2022] +91 74985 42523: Q18 which one of the following technique is applied for usually testing
+
+Ans black box
+[2:31 pm, 24/03/2022] +91 74985 42523: Q21)is responsible for full software develpoment
+Ans)qulity control,quality qssurance
+[2:31 pm, 24/03/2022] +91 74985 42523: Q17 which command is used to push the code into GIT Staging area
+
+Ans git add
+[2:31 pm, 24/03/2022] +91 74985 42523: Q14)devops is an extension of
+Ans :- agile
+[2:31 pm, 24/03/2022] +91 74985 42523: 8) In jenkins ____is used
+And. A) Weather icon
+[2:31 pm, 24/03/2022] +91 74985 42523: 13) in web deiver ...... Command can be
+Ans :- sendKeys("text")
+[2:31 pm, 24/03/2022] +91 74985 42523: Q37 Which of the following Docker command is used to access the running container?
+Ans- docker exec
+W- docker run
+[2:31 pm, 24/03/2022] +91 74985 42523: Q5 in yaml explicit tags
+Ans: exclamation point (!)
+[2:31 pm, 24/03/2022] +91 74985 42523: Q34) Some of the agile frameworks are
+
+Answer: Skrum & Canban
+
+
+
+Q35) Match the following Types of Focus Groups with their appropriate description
+
+Answer: 1C 2A 3D 48
+
+
+
+Q36) Which of the following type of virtualization is also characteristic of cloud computing?
+
+Answer: Storage
+[2:31 pm, 24/03/2022] +91 74985 42523: Qus 25:Which of the following Agile methodology advocates the use of problem domain?
+
+Correct answer: Feature Driven Development" (FDD).
+Wrong answer: scrum
+
+
+Qus 27:What is the practice of every change going through full automated testing and being deployed automatically to the production environment?
+
+Correct answer: continues delivery
+Wrong answer: continues deployment
+
+
+Qus 26:Which of the following is the git command to download all the objects and references from a specific repository?
+
+Correct answer: git fetch
+Wrong answer:git help
+[2:31 pm, 24/03/2022] +91 74985 42523: Q 10 What is the basic operational unit of Kubernetes?
+Right Ans - Pod.
+Wrong Ans - Nodes.
+
+Q 11 For project management, Jira is used for __
+Right Ans - planning, tracking, reporting, and releasing.
+Wrong Ans - motivating grouping, analyzing, and plotting.
+
+Q 12 Which of the following is NOT a property of the Waterfall Model?
+Right Ans : iterations can be costly and involve significant rework. ( Not Sure )
+Wrong Ans : Software development cascades from one phase to another
+[2:32 pm, 24/03/2022] Mayur Patil: Q26 a virtualization
+[2:33 pm, 24/03/2022] Mayur Patil: 7. Jira is used for== B plaing tracking etc
+
+6.What is the need for DevOps? == C longer.....
+C# Compiler => Roslyn
+
+
+in c# having unreachable code is always an => Error
+
+
+when working query expression a variable can store result of subexpression in order to reuse in upcoming clause  => LET
+
+
+parameters allow you to give default value to method parameters  => OPtional
+
+
+types of contract in wcf => security contract
+
+
+c# 4.0 tell compiler variable type can change => Dynamic
+6. What does the following C# code specify? D) All of the above
+7. Consider the below scenario C)
+8. ___ parameters allows you to give a method parameter a default value  A) optional
+9. you have declared an event on your class and you want outside users A) Add a public method to your class
+10. c# sharp compiler used in .net Core B) Roslyn
+1. Valid Code for Creating a SqlConnection Object would be A) SqlConnection conn = NEW SqlConnection
+2. how do you manage states in asp.net MVC application C) ViewBag
+3. choose the incorrect statement about delegates D)delegates are not type safe
+4. Choose the correct statement among the followings? D) All of the mentioned
+5. which component in asp.net MVC can be used to pass the data C) ViewBag[“DateTime”]
+[3:32 pm, 23/03/2022] +91 84218 73139: C# treats the multiple catch statements like cases in a _____ statement.
+ A. 	If
+ B. 	Switch
+ C. 	For
+ D. 	While
+ View Answer   up 2 Down -2
+
+Explanation:-
+Answer : B
+[3:32 pm, 23/03/2022] +91 84218 73139: 33-How do you get information from a form that is submitted using the "post" method?             
+[3:32 pm, 23/03/2022] +91 84218 73139: How to check Request coming from which controller using MVC ASP.Net?
+
+A) var_controller = HttpContext.Current Request Request Context Values["Controller"].ToString();
+
+B) var_controller = HttpContext.Current Request Request Context.RouteData.Values["Controller"].ToString();
+
+C) var _controller = RouteData.V…
+[3:32 pm, 23/03/2022] +91 84218 73139: The infrastructure that supports dynamic operations at run time is called the
+Answer....DLR
+[3:32 pm, 23/03/2022] +91 84218 73139: inheritance is ___in nature
+Ans : TRANSITIVE
+[3:32 pm, 23/03/2022] +91 84218 73139: _ensures complete interoperability among application regardieses of the laguage used to create the application 
+Ans) b) cls
+[3:32 pm, 23/03/2022] +91 84218 73139: c# traets the multiple catch statement like cases in a _ statement
+Ans b) switch
+[3:32 pm, 23/03/2022] +91 84218 73139: 11. In C # which of the following modifier....
+Ans: Virtual
+[3:32 pm, 23/03/2022] +91 84218 73139: [15:18, 3/23/2022] Akash Barhalikar (iacsd DBDA): Q 10)The CM commiler uned in NET CORE is
+ChoI
+3) osc.exe
+O Roslyn
+O Typescript
+© core exe
+Ans :Roslyn
+[15:18, 3/23/2022] Akash Barhalikar (iacsd DBDA): 20)  ...in asp.net mvc application
+
+A) Application
+[15:18, 3/23/2022] Akash Barhalikar (iacsd DBDA): 22) C…
+[3:32 pm, 23/03/2022] +91 84218 73139: he C# compiler used in NET CORE is..... 
+Answer..Roslyn.
+[3:32 pm, 23/03/2022] +91 84218 73139: 22) Choose the incorrect statement among the following about the delegate?
+a) delegates are of reference types
+b) delegates are object oriented
+c) delegates are type safe
+d) none of the mentioned
+View Answer
+
+Answer: d
+[3:32 pm, 23/03/2022] +91 84218 73139: 27) inheritance...Commutative
+
+O Associative
+
+O Transitive
+
+O Iterative
+
+Ans - transitive
+[3:32 pm, 23/03/2022] +91 84218 73139: class overload
+  {
+      public int x;
+      int y;
+      public int add(int a)
+      {
+          x = a + 1;
+          return x;
+      }
+      public int add(int a, int b)
+      {
+          x = a + 2;
+          return x;
+      }
+  }    
+  class Program
+  {
+      static void Main(string[] args)
+      {
+          overload obj = new overload();
+          overload obj1 = new overload();
+          int a = 0;
+          obj.add(6);
+          obj1.add(6, 2);
+          Console.WriteLine(obj.x);
+          Console.WriteLine(obj1.x);
+          Console.ReadLine()
+Ans.d
+[3:32 pm, 23/03/2022] +91 84218 73139: class Program
+{
+    static void Main(string[] args)
+    {
+        string[] strs = {"alpha", "beta", "gamma"};
+        var chrs = from str in strs
+                   let chrArray = str.ToCharArray()
+                   from ch in chrArray
+                   orderby ch
+                   select ch;
+        Console.WriteLine("The individual characters in sorted order:");
+        foreach (char c in chrs) 
+        Console.Write(c + " ");
+        Console.WriteLine();
+        Console.ReadLine();
+    }
+}
+Ans.b
+[3:32 pm, 23/03/2022] +91 84218 73139: Which operator among the following signifies the destructor operator?
+::
+
+:
+
+ ~
+
+&
+Answer:~
+[3:32 pm, 23/03/2022] +91 84218 73139: Q2 Which of the following are valid states of Thread?
+1. Unstarted
+2. Runnable (Ready to run)
+3. Running
+4. Not Runnable
+5. Dead (Terminated)
+Total 00:58:20
+chon 00:58:20
+B
+2 01 40
+C Revisit
+Choose It
+• 1.2.3,4.5
+O 1,24,5
+0 1,2,3,5
+0 1,2,3,4
+
+
+
+Ans:1235
+Is not a TCL COMMAND 
+ANS: REVOKE
+
+PRS:
+14: db.coll.insert()
+
+Nikhil:
+name of the colum can be altered in
+Ans - rename
+
+PRS:
+14: SQL:2003
+
+13
+
+:
+30: C (check once again)
+
+:
+A relation is said to be in 
+Ans-3Nf
+
+:
+25 when you use SQL to create or modify database.....
+Ans DDL
+
+S:
+Q28 answer: SQL SERVER
+
+:
+38. Generation of sequential numbers = Auto-increment
+
+PRS:
+16 : rebuild
+:
+32 :B ( check once again)
+
+:
+Verify
+Q26 which is wrong
+SQL server is a type of NoSQL database
+
+:
+Ans : drop cannot be rollback
+
+d s:
+Which triggers not supported - views
+
+PRS:
+38 : auto increment
+
+d s:
+3. Query executed inside another - subquery
+
+:
+Which code returns 
+Ans : Option A 
+Select pgdac,pgdesd,....
+
+S:
+Q26 b
+
+5) Which of the following is not TCL command 
+
+And : Revoke
+
+Open cursor
+Ans:opens a previously declared cursor
+http status code for redirection
+--|307
+
+Default port ract __3000
+
+How can you make ...module file in nodejs -| module.exports
+
+World wide web- browser dekh lo
+
+Default port react runs on
+3000
+
+Which of the following Javascript.... is not a number
+
+IsNaN()
+
+Q. Which of the following.....text input control?
+A -| |textarea|
+
+Consider a html 
+Ans c .each
+
+Float in not a data type in javascript
+
+...allows an attacker to induce a victim user to perform..
+-| CSRF
+
+Q.which of the following is a valid HTML syntax for creating multi line text input control 
+Ans . |textarea|
+
+Which of the .... Reach component
+-|this.setState
+
+which of the following function is used as a shortcut for jquery
+dollar
+
+which of the following is valid HTLM syntax for creating multi line input control
+---|textarea|
+
+How can you make
+- module.exports
+
+hyperlink ans d
+
+Q.which of the following is a default scope in node.js application
+Ans local
+
+Q. Which of the correct way.....hyperlink in html?
+A -| |a href....|
+
+what value of xmlhttprequest.reastate
+4
+
+JavaScript code... Popup
+- alert()
+
+Q. Identify the wrong statement
+-| a promise has 4 possible outcomes
+
+What will be ...... JavaScript
+
+
+Object
+
+Which of the following... project depencies
+-|package.json
+
+default port development server for react runs on
+3000
+
+What value of....response readiness?
+Ans.4(first opt)
+
+Which of the following is default scope in node.js
+
+
+Local
+
+which is default port on which the development server react runs on
+
+3000
+[2:24 pm, 22/03/2022] +91 77097 08097: Which of the given options provides the increasing order of asymptotic complexity of functions f1, f2, f3 and f4?
+
+f1(n) = 2^n
+f2(n) = n^(3/2)
+f3(n) = nLogn
+f4(n) = n^(Logn)
+(A) f3, f2, f4, f1
+(B) f3, f2, f1, f4
+(C) f2, f3, f1, f4
+(D) f2, f3, f4, f1
+
+Answer: (A)
+[2:24 pm, 22/03/2022] +91 77097 08097: Which algorithm strategy builds up a solution by choosing the option that looks the best at every step?
+Ans:- greedy method
+[2:25 pm, 22/03/2022] +91 77097 08097: bubble sort o(n)
+[2:25 pm, 22/03/2022] +91 77097 08097: Negative cycle in gragp- bellman Ford
